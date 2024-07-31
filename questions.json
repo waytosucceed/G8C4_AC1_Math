@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which of the following is the simplest form of 45/60?",
+    "options": ["9/12", "4/5", "3/4", "4/3"],
+    "correct": 2,
+    "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "What are the like fractions for 1/3 and 2/5?",
+    "options": ["5/15 and 8/15", "4/15 and 6/15", "5/15 and 6/15", "4/15 and 8/15"],
+    "correct": 2,
+    "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "Which of the following fractions is an improper fraction?",
+    "options": ["123/238", "404/303", "303/404", "582/587"],
+    "correct": 1,
+    "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "What is the result of the subtraction: (-15) - (-8)?",
+    "options": ["-7", "-23", "7", "23"],
+    "correct": 0,
+    "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "What is the result of the addition: (-8) + 5 + (-3)?",
+    "options": ["-6", "6", "4", "0"],
+    "correct": 0,
+    "img": "./assests/images/5.jpg"
+  }
+]
